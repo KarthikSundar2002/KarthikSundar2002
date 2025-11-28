@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @KarthikSundar2002
-- 👀 I’m interested in Web Devlopment and Desktop Applications
-- 📫 You can reach me via karthiksundar30092002@gmail.com or you can dm me on instagram, where I go by @karthiksundar2002
+- 👀 I’m interested in Deep Learning especially areas like Post training, Generative Modelling, AI in Health and Interpretability. 
+- 📫 You can reach me via karthiksundar30092002@gmail.com
+
+- Make sure to visit my website - https://www.karthiksundar.in
 
 
